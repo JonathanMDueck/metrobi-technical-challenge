@@ -1,0 +1,22 @@
+.sidebarSection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  flex: 1;
+}
+
+.hero {
+  background: lightgray;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  flex: 1;
+}
+
+.sidebar {
+  background: lightgreen;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  flex: 1.5;
+}

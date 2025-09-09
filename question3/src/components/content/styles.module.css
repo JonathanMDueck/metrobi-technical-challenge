@@ -1,0 +1,28 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  flex: 1.6;
+}
+
+.main {
+  background: darkgoldenrod;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
+  flex: 3;
+}
+
+.extra {
+  background: gray;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 2rem;
+  flex: 1;
+}
+
+.text {
+  font-size: 1rem;
+}

@@ -1,0 +1,22 @@
+.relatedContent {
+  width: 100%;
+  display: flex;
+  flex: 2;
+  gap: 0.2rem;
+}
+
+.images {
+  background: darkgreen;
+  flex: 5;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.posts {
+  background: lightpink;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
